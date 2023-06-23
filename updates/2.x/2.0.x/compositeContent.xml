@@ -8,5 +8,6 @@
   <children size='2'>
     <child location='../../../releases/2.0.0.v20210315-1510'/>
     <child location='../../../releases/2.0.2.v20210315-1510'/>
+    <child location='../../../releases/2.0.3.v20210315-1510'/>
   </children>
 </repository>
